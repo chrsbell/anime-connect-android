@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">anime-connect-android</string>
+    <string name="button_login_text">Login</string>
+</resources>
